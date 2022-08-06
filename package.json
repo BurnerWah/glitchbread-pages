@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "wrangler": "^2.0.24"
+  },
+  "scripts": {
+    "dev": "wrangler pages dev public"
+  }
+}

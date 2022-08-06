@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yaboiburner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://glitchbread.xyz
+  * I am yaboiburner (https://keybase.io/yaboiburner) on keybase.
+  * I have a public key ASC8DNNMm3p0x9nVc0KU3KfK0MCoz7ZY5ltAjaP53WZrbgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e5bfe7c82fc832ae62f27aa5577487b5dd95fc91ab7d35b70e8e06e1ab847fe20a",
+      "host": "keybase.io",
+      "kid": "0120bc0cd34c9b7a74c7d9d5734294dca7cad0c0a8cfb658e65b408da3f9dd666b6e0a",
+      "uid": "b9dcdf86e7d6c91681058d39a0f92419",
+      "username": "yaboiburner"
+    },
+    "merkle_root": {
+      "ctime": 1653965261,
+      "hash": "68a64c0bd6ad2ce1c5062628ae04dd462120dca61423a6a5edb614b203e579957d679f639bfb39841997d6519fa9e109b6128e39ac1c58351f446505bb7c35aa",
+      "hash_meta": "9f3d736e6a850066a4e0b131547d75081ede7089de92c95aec6e1d024fe04077",
+      "seqno": 22583241
+    },
+    "service": {
+      "entropy": "v7CH+2UmDTsqkXwU2QBrH9VP",
+      "hostname": "glitchbread.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.3"
+  },
+  "ctime": 1653965266,
+  "expire_in": 504576000,
+  "prev": "f85393bae0669709f93b6ef950ce128e15ed11d3256a0823e5c1f3fb89a9698c",
+  "seqno": 154,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvAzTTJt6dMfZ1XNClNynytDAqM+2WOZbQI2j+d1ma24Kp3BheWxvYWTES5cCzJrEIPhTk7rgZpcJ+Ttu+VDOEo4V7RHTJWoII+XB8/uJqWmMxCAwOz7mqR9DpERUILUo4jHAj1I/wY1m2fc3lU2VYZGpXwIBwqNzaWfEQBXfDTdRZ8ouWgwaIZqICyibq7DMpFTEJTIT1ADqGccREAR7J1r/mt30pOcm8MbhC129YICy76jxb8mFH6EZWgqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCLmJ7i8z1s7yVmRBewDn3ksIhZhsjE9uRnmNnf5UNpzqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yaboiburner
+
+==================================================================
